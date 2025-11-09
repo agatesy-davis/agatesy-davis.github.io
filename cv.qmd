@@ -1,0 +1,281 @@
+---
+title: "Anwyn Gatesy-Davis"
+subtitle: "they/them"
+# date: last-modified
+# date-format: iso
+geometry:
+  - right=1in
+  - bottom=1in
+  - top=1in
+format:
+  pdf:
+   sansfont: Times New Roman
+   mainfont: Times New Roman
+   colorlinks: false
+  html:
+    css: flipmargin.css
+    toc: true
+    toc-location: left
+---
+\reversemarginpar
+
+```{=latex}
+\vspace{-2.5cm}
+```
+
+[anwyn.d.gd@gmail.com](mailto:anwyn.d.gd@gmail.com) | 508-581-0141 | Lincoln, NE | [website](https://agatesy-davis.github.io) | [OSF]() | [ORCiD]() | [GitHub](http://github.com/agatesy-davis)
+ 
+::: {.content-visible when-format="html"}
+<p align="center"><a href="cv.pdf" class="btn btn-primary">PDF Version</a></p>
+:::
+
+## Education
+
+[2023-Present]{.aside}
+
+**Ph.D. in Psychology** at University of Nebraska-Lincoln, Lincoln, NE\
+Supervisor: Jeffrey Stevens
+
+[2023-2025]{.aside}
+
+**M.A. in Psychology** at University of Nebraska-Lincoln, Lincoln, NE\
+Supervisor: Jeffrey Stevens
+
+[2016-2020]{.aside}
+
+**B.A. in Psychology and Animal Behavior** at Hampshire College, Amherst, MA\
+Supervisors: Sarah Partan, Mark Feinstein
+
+
+## Research Experience
+
+[07/2021-- 07/2023]{.aside}
+
+**Lab Manager** at *Computational Cognitive Development Lab & Brown Dog Lab*\
+Department of Cognitive, Linguistic, and Psychological Sciences, Brown University\
+Providence, RI
+
+[09/2020-- 07/2021]{.aside}
+
+**Volunteer Research Assistant** at *Brown Dog Lab*\
+Department of Cognitive, Linguistic, and Psychological Sciences, Brown University\
+Providence, RI
+
+[summers 2014-- 2020]{.aside}
+
+**Paid Research Intern** at *Transitions to Adulthood Center for Research*\
+Implementation Science and Practice Advances Research Center,
+Department of Psychiatry, University of Massachusetts Medical School\
+Shrewsbury, MA
+
+[09/2017-- 05/2020]{.aside}
+
+**Research Team Coordinator** at *Partan Lab*\
+Animal Behavior Program, School of Cognitive Science, Hampshire College\
+Amherst, MA
+
+[08/2019]{.aside}
+
+**Volunteer Research Intern** at *Hart Lab*\
+Department of Population Health and Reproduction, University of California Davis School of Veterinary Medicine\
+Davis, CA
+
+[06/2019]{.aside}
+
+**Field Research Assistant** at *Sarasota Bay Dolphin Health Assessment Project*\
+Sarasota Dolphin Research Program, Chicago Zoological Society\
+Sarasota, FL
+
+[01/2019]{.aside}
+
+**Student Researcher** in *Animal Behavior Field Research Course*\
+Animal Behavior Program, School of Cognitive Science, Hampshire College & Fundación MERI\
+Amherst, MA & Melimoyu, Chile
+
+::: {.content-visible when-format="pdf"}
+\newpage
+:::
+
+## Publications
+
+DeBoer, H., Fitzpatrick, H., Wolff, L. M., **Gatesy-Davis, A.**, & Stevens, J. R. (2025). Do dogs follow Weber’s Law? The role of ratio and difference in quantity preference. *Psychological Topics*, 34(1), 117-137. doi:[/10.31820/pt.34.1.6](https://doi.org//10.31820/pt.34.1.6)
+
+::: {.content-visible when-format="html"}
+[Data & Code](https://osf.io/tp8ah/){.btn .btn-outline-primary .btn role="button"}
+[GitHub](https://github.com/unl-cchil/dognumber){.btn .btn-outline-primary .btn role="button"}
+[Preprint](https://doi.org/10.31234/osf.io/rn8gq){.btn .btn-outline-primary .btn role="button"}
+[Open Access](https://doi.org//10.31820/pt.34.1.6){.btn .btn-outline-primary .btn role="button"}
+:::
+
+**Gatesy-Davis, A.**, Koroloff, N., Marrone, J., Davis, M. (2022). Collaboration among vocational rehabilitation and mental health leaders: Supporting the vocational success of transition-age youth with serious mental health conditions. *Journal of Vocational Rehabilitation*, 56 (2), 123–137. doi:[/10.3233/JVR-221177](https://doi.org/10.3233/JVR-221177)
+
+Grigg, E. K., Chou, J., Parker, E., **Gatesy-Davis, A.**, Clarkson, S. T., & Hart, L. A. (2021). Stress-related behaviors in companion dogs exposed to common household noises, and owners' interpretations of their dogs' behaviors. *Frontiers in Veterinary Science*, 8, 760845. doi:[/10.3389/fvets.2021.760845](https://doi.org/10.3389/fvets.2021.760845)
+
+### Preprints
+
+**Gatesy-Davis, A.**, & Stevens, J.R. (2025). The ideal herding dog: personality and behavioral traits predict herding ability. _PsyArXiv_. doi:[/10.31234/osf.io/4x9nj_v1](https://doi.org/10.31234/osf.io/4x9nj_v1)
+
+::: {.content-visible when-format="html"}
+[Data & Code](https://osf.io/phq3a/){.btn .btn-outline-primary .btn role="button"}
+[GitHub](https://github.com/unl-cchil/herdingrating){.btn .btn-outline-primary .btn role="button"}
+[Preprint](https://doi.org/10.31234/osf.io/4x9nj_v1){.btn .btn-outline-primary .btn role="button"}
+:::
+
+## Conference Presentations and Posters
+
+**Gatesy-Davis, A.** and Stevens, J. R. (April, 2025). The ideal herding dog: personality and behavioral traits predict herding performance. Poster presented at 72nd Annual Nebraska Symposium on Motivation, Lincoln, NE, USA.
+
+**Gatesy-Davis, A.**, Pelgrim, M., Buchsbaum, D. (April, 2023). A comparison of human trust in human and non-human agents. Poster presented at the 30th Annual International Conference on Comparative Cognition, Melbourne, FL, USA.
+
+**Gatesy-Davis, A.**, Pelgrim, M., Buchsbaum, D. (October, 2022). Measuring humans’ trust in dogs with the Multi-Dimensional Measure of Trust (MDMT). Poster presented at Canine Science Conference, Hamilton, NY, USA.
+
+**Gatesy-Davis, A.**, Pelgrim, M., Buchsbaum, D. (April, 2022). Measuring humans’ trust in dogs with the Multi-Dimensional Measure of Trust (MDMT). Poster presented at the 29th Annual International Conference of the Comparative Cognition Society, Online.
+
+Koroloff, N. and **Gatesy-Davis, A.** (March, 2020). Perspectives of mental health and state vocational rehabilitation agency leadership on collaboration. Accepted* for paper presentation at the 33rd Annual Research and Policy Conference on Child, Adolescent, and Young Adult
+Behavioral Health, Tampa, FL, USA. \*Conference canceled due to COVID-19
+
+Baum, M., **Gatesy-Davis, A.**, Rosefield, T., Chandler, R., Partan, S. (April, 2018). Assessing biodiversity with trail cameras in the Hampshire Woods. Poster presented at Northeast Natural History Conference, Burlington, VT, USA.
+
+Davis, M. and **Gatesy-Davis, A.** (March, 2018). Vocational rehabilitation leaders' perceptions of collaboration with child and adult mental health for successful employment outcomes in transition-age youth. Paper presented at the 31st Annual Research and Policy Conference on Child, Adolescent, and Young Adult Behavioral Health, Tampa, FL, USA.
+
+<!-- ### Invited Presentations -->
+
+
+
+<!-- ## Grants and Fellowships -->
+
+<!--  [2023-2024]{.aside}  -->
+
+<!--  University of Nebraska-Lincoln Maude Hammond Fling Faculty Research Fellowship (Interdisciplinary Research Grant), "Integrating psychology and genetics to identify markers predicting training outcomes in pet dogs", co-PI with Jessica Petersen (PI) ($20,587) -->
+
+<!-- [2023-2025]{.aside}  -->
+
+<!-- APDT Foundation, "Unleashing stress: Pet and therapy dog responses to human stress odors", PI with Tierney Lorenz and London Woff (\$2,500) -->
+
+## Teaching
+
+### Teaching Experience
+
+#### Instructor
+
+[summer 2024]{.aside}
+
+**PSYC 273: Brain and Behavior** *(online)*\
+Department of Psychology, University of Nebraska-Lincoln
+
+#### Graduate Teaching Assistant
+
+[2023F, 2024S, 2025F]{.aside}
+
+**PSYC 181: Introduction to Psychology**\
+Department of Psychology, University of Nebraska-Lincoln
+
+[2024F, 2025S]{.aside}
+
+**PSYC 273: Brain and Behavior**\
+Department of Psychology, University of Nebraska-Lincoln
+
+[2024F]{.aside}
+
+**PSYC 368: Learning and Motivation**\
+Department of Psychology, University of Nebraska-Lincoln
+
+[2023F, 2024S]{.aside}
+
+**PSYC 289: Developmental Psychology**\
+Department of Psychology, University of Nebraska-Lincoln
+
+#### Undergraduate Teaching Assistant
+
+[2019F]{.aside}
+
+**CS 207: Biodiversity in the Hampshire Woods**\
+School of Cognitive Science, Hampshire College
+
+[2019S]{.aside}
+
+**CS 260: Cognition, Communication, and Behavior of Whales and Dolphins**\
+School of Cognitive Science, Hampshire College
+
+[2018F]{.aside}
+
+**CS 179: Field Methodsin Animal Behavior**\
+School of Cognitive Science, Hampshire College
+
+[2018S]{.aside}
+
+**CS 220: Animal Behavior: Evolution, Development, and Neural Bases of Behavior**\
+School of Cognitive Science, Hampshire College
+
+<!-- ## Guest Lectures -->
+
+<!-- [1998]{.aside}  -->
+
+<!--  "A game theoretical approach to fighting and assessment", University of Minnesota---Evolution of Social Behavior: EEB 5321 -->
+
+<!-- [1999-2000]{.aside}  -->
+
+<!--  "Foraging and territoriality", University of Minnesota---Behavioral Ecology: EEB 5325/7 -->
+
+<!-- ## Teaching Development -->
+
+<!-- [1999]{.aside}  -->
+
+<!--  Participant in TA Web Certification, TAWEB 103---Academic and Distributed Computing Services, Center for Teaching and Learning Services, University of Minnesota -->
+
+<!-- [2000]{.aside}  -->
+
+<!--  Co-author curriculum for Introduction to Animal Behavior Laboratory, EEB 3411---Ecology, Evolution, and Behavior, University of Minnesota -->
+
+<!-- [2002]{.aside} -->
+
+<!--  Participant in Preparing Future Faculty Retreat---Preparing Future Faculty, Center for Teaching and Learning Services, University of Minnesota -->
+
+<!-- [2003]{.aside} -->
+
+<!--  Participant in Fall Teaching Conference---Derek Bok Center for Teaching and Learning, Harvard University -->
+
+<!-- [2020]{.aside} -->
+
+<!-- Participant in Summer Institute for Online Teaching—Center for Transformative Teaching, University of Nebraska-Lincoln -->
+
+
+<!-- # Service -->
+
+<!-- ## Public Outreach -->
+
+<!-- [2001-2002]{.aside}  -->
+
+<!--  Docent at Como Zoo, St. Paul, MN -->
+
+<!-- [2010]{.aside}  -->
+
+<!--  Presenter at Zoological Society of London’s Communicating Science series, London, UK -->
+
+<!-- [2014]{.aside}  -->
+
+<!--  Volunteer for "Eight-Legged Encounters\" outreach exhibit at Denver Museum of Nature and Science -->
+
+<!-- [2015]{.aside}  -->
+
+<!--  Stevens, A.N.P. & **Stevens, J.R.** Cool jobs: Getting in your head. *Science News for Students*. -->
+
+<!-- [2018]{.aside}  -->
+
+<!--  Co-organizer for Animal Behavior event at Sunday with a Scientist at University of Nebraska State Museum -->
+
+<!--  Invited speaker at Edgerton Explorit Dog Science Camp -->
+
+<!-- [2021-2023]{.aside}  -->
+
+<!--  Invited speaker at Edgerton Explorit Veterinary Camp -->
+
+<!-- [2024]{.aside}  -->
+
+<!--  Organizer for "Animal Brains" station at BrainStorm event at Sunday with a Scientist at University of Nebraska State Museum -->
+
+<!--  Co-host of "Dog Days of Summer" at Pearson's Pumpkin Place -->
+
+<!--  Invited speaker at [Girls Inc. of Lincoln](https://girlsincomaha.org/programs/girls-inc-of-lincoln/) summer camp -->
+
+<!--  Organizer for "Dog Cognition" station at Best in Show event at Sunday with a Scientist at University of Nebraska State Museum -->

@@ -3,20 +3,27 @@ project:
   output-dir: docs
 
 website:
-  title: "agatesy-davis.github.io"
+  title: "Anwyn Gatesy-Davis"
+  site-url: https://agatesy-davis.github.io
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "Made with Quarto"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: cv.qmd
+        text: CV
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: flatly
+      dark: darkly
+    respect-user-color-scheme: true
     css: styles.css
     toc: true
+    page-layout: full
 
 
 
