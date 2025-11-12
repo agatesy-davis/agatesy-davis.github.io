@@ -10,21 +10,20 @@ about:
   image-alt: "headshot of Anwyn holding a dog"
   links:
     - text: CV
-      href: mailto:agatesy-davis2@huskers.unl.edu
-    - icon: envelope
-      text: Email
+      href: cv.pdf
+    - text: Email
       href: mailto:agatesy-davis2@huskers.unl.edu
 ---
 
-I am a Ph.D. student in the Department of Psychology at the University of Nebraska-Lincoln. 
+**I am a Ph.D. student in the Department of Psychology at the University of Nebraska-Lincoln. I apply my passion for science and learning to both research and teaching.**
 
-<!-- #### Research -->
+##### Research
 
-<!-- My research focuses on herding dogs that work with farmers to manage livestock. I use cognitive and behavioral approaches to learn about herding dogs and the humans that work with them. I aim to use scientific methods to inform herding dog practices, with the ultimate goal of improving the effectiveness of herding dogs at their job. Currently, I pursue this line of research as a member of the [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu/) at University of Nebraska-Lincoln. -->
+My research focuses on herding dogs that work with farmers to manage livestock. I use cognitive and behavioral approaches to learn about herding dogs and the humans that work with them. I aim to use scientific methods to inform herding dog practices, with the ultimate goal of improving the effectiveness of herding dogs at their job. Currently, I pursue this line of research as a member of the [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu/) at University of Nebraska-Lincoln.
 
-<!-- #### Teaching -->
+##### Teaching
 
-<!-- Someting about evidence-based teaching and sharing my love of science with students. Inspired by nontraditional educaiton in my past. -->
+As a teacher, I aim to empower my students to take ownership of their learning. My passion for science drives me to root my teaching in evidence-based methods. My experience as a student at nontraditional schools like [Touchstone Community School](https://www.touchstoneschool.com/) (K-8) and [Hampshire College](https://www.hampshire.edu/) (undergraduate) inspires me to question traditional teaching practices. 
 
 
 <!-- ### Education -->

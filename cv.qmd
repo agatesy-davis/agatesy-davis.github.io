@@ -1,33 +1,38 @@
 ---
 title: "Anwyn Gatesy-Davis"
 subtitle: "they/them"
-# date: last-modified
-# date-format: iso
 geometry:
-  - right=1in
-  - bottom=1in
-  - top=1in
+  - right = 1in
+  - bottom = 1in
+  - top = 1in
 format:
   pdf:
    sansfont: Times New Roman
    mainfont: Times New Roman
    colorlinks: false
+   include-in-header: 
+      text: |
+        \usepackage{scrlayer-scrpage}
+        \rofoot{November 2025}
+        \lofoot{Gatesy-Davis}
+
   html:
     css: flipmargin.css
     toc: true
     toc-location: left
 ---
-\reversemarginpar
 
 ```{=latex}
 \vspace{-2.5cm}
 ```
 
-[anwyn.d.gd@gmail.com](mailto:anwyn.d.gd@gmail.com) | 508-581-0141 | Lincoln, NE | [website](https://agatesy-davis.github.io) | [OSF]() | [ORCiD]() | [GitHub](http://github.com/agatesy-davis)
+[anwyn.d.gd@gmail.com](mailto:anwyn.d.gd@gmail.com) | 508-581-0141 | Lincoln, NE | [website](https://agatesy-davis.github.io) | [OSF](https://osf.io/kzfsg/) | [ORCiD](https://orcid.org/0009-0006-7254-4332) | [GitHub](http://github.com/agatesy-davis)
  
 ::: {.content-visible when-format="html"}
 <p align="center"><a href="cv.pdf" class="btn btn-primary">PDF Version</a></p>
 :::
+
+\reversemarginpar
 
 ## Education
 
@@ -187,82 +192,37 @@ Department of Psychology, University of Nebraska-Lincoln
 
 #### Undergraduate Teaching Assistant
 
-[2019F]{.aside}
+<!-- [2019F]{.aside} -->
 
-**CS 207: Biodiversity in the Hampshire Woods**\
+<!-- **CS 207: Biodiversity in the Hampshire Woods**\ -->
+<!-- School of Cognitive Science, Hampshire College -->
+
+<!-- [2019S]{.aside} -->
+
+<!-- **CS 260: Cognition, Communication, and Behavior of Whales and Dolphins**\ -->
+<!-- School of Cognitive Science, Hampshire College -->
+
+<!-- [2018F]{.aside} -->
+
+<!-- **CS 179: Field Methodsin Animal Behavior**\ -->
+<!-- School of Cognitive Science, Hampshire College -->
+
+<!-- [2018S]{.aside} -->
+
+<!-- **CS 220: Animal Behavior: Evolution, Development, and Neural Bases of Behavior**\ -->
+<!-- School of Cognitive Science, Hampshire College -->
+
+
+[2018-2019]{.aside}
+
 School of Cognitive Science, Hampshire College
 
-[2019S]{.aside}
-
-**CS 260: Cognition, Communication, and Behavior of Whales and Dolphins**\
-School of Cognitive Science, Hampshire College
-
-[2018F]{.aside}
-
-**CS 179: Field Methodsin Animal Behavior**\
-School of Cognitive Science, Hampshire College
-
-[2018S]{.aside}
-
-**CS 220: Animal Behavior: Evolution, Development, and Neural Bases of Behavior**\
-School of Cognitive Science, Hampshire College
+* CS 179: Field Methods in Animal Behavior
+* CS 207: Biodiversity in the Hampshire Woods
+* CS 220: Animal Behavior: Evolution, Development, and Neural Bases of Behavior
+* CS 260: Cognition, Communication, and Behavior of Whales and Dolphins
 
 <!-- ## Guest Lectures -->
-
-<!-- [1998]{.aside}  -->
-
-<!--  "A game theoretical approach to fighting and assessment", University of Minnesota---Evolution of Social Behavior: EEB 5321 -->
-
-<!-- [1999-2000]{.aside}  -->
-
-<!--  "Foraging and territoriality", University of Minnesota---Behavioral Ecology: EEB 5325/7 -->
-
-<!-- ## Teaching Development -->
-
-<!-- [1999]{.aside}  -->
-
-<!--  Participant in TA Web Certification, TAWEB 103---Academic and Distributed Computing Services, Center for Teaching and Learning Services, University of Minnesota -->
-
-<!-- [2000]{.aside}  -->
-
-<!--  Co-author curriculum for Introduction to Animal Behavior Laboratory, EEB 3411---Ecology, Evolution, and Behavior, University of Minnesota -->
-
-<!-- [2002]{.aside} -->
-
-<!--  Participant in Preparing Future Faculty Retreat---Preparing Future Faculty, Center for Teaching and Learning Services, University of Minnesota -->
-
-<!-- [2003]{.aside} -->
-
-<!--  Participant in Fall Teaching Conference---Derek Bok Center for Teaching and Learning, Harvard University -->
-
-<!-- [2020]{.aside} -->
-
-<!-- Participant in Summer Institute for Online Teaching—Center for Transformative Teaching, University of Nebraska-Lincoln -->
-
-
-<!-- # Service -->
-
-<!-- ## Public Outreach -->
-
-<!-- [2001-2002]{.aside}  -->
-
-<!--  Docent at Como Zoo, St. Paul, MN -->
-
-<!-- [2010]{.aside}  -->
-
-<!--  Presenter at Zoological Society of London’s Communicating Science series, London, UK -->
-
-<!-- [2014]{.aside}  -->
-
-<!--  Volunteer for "Eight-Legged Encounters\" outreach exhibit at Denver Museum of Nature and Science -->
-
-<!-- [2015]{.aside}  -->
-
-<!--  Stevens, A.N.P. & **Stevens, J.R.** Cool jobs: Getting in your head. *Science News for Students*. -->
-
-<!-- [2018]{.aside}  -->
-
-<!--  Co-organizer for Animal Behavior event at Sunday with a Scientist at University of Nebraska State Museum -->
 
 <!--  Invited speaker at Edgerton Explorit Dog Science Camp -->
 
@@ -274,8 +234,49 @@ School of Cognitive Science, Hampshire College
 
 <!--  Organizer for "Animal Brains" station at BrainStorm event at Sunday with a Scientist at University of Nebraska State Museum -->
 
-<!--  Co-host of "Dog Days of Summer" at Pearson's Pumpkin Place -->
 
-<!--  Invited speaker at [Girls Inc. of Lincoln](https://girlsincomaha.org/programs/girls-inc-of-lincoln/) summer camp -->
+### Teaching Development
 
-<!--  Organizer for "Dog Cognition" station at Best in Show event at Sunday with a Scientist at University of Nebraska State Museum -->
+#### Courses
+
+[Spring 2023]{.aside}
+
+**SCIL 888: Teaching Undergraduate Science**\
+University of Nebraska-Lincoln
+
+[Fall 2023]{.aside}
+
+**PSYC 974: Teaching Methods for Psychology**\
+University of Nebraska-Lincoln
+
+#### Workshops
+
+[11/2025]{.aside}
+
+**Bridging Cultures: Navigating Intercultural Communication in the Classroom**\
+University of Nebraska-Lincoln
+
+[10/2025]{.aside}
+
+**Understanding Student Motivation**\
+University of Nebraska-Lincoln
+
+[09/2025]{.aside}
+
+**From University to Classroom: AI Topics and Policies**\
+University of Nebraska-Lincoln
+
+[03/2024]{.aside}
+
+**Inclusive Teaching Discussionn**\
+Center for the Integration of Research, Teaching, and Learning, University of Nebraska-Lincoln
+
+[02/2024]{.aside}
+
+**Alternative Grading: Focus on Competencies**\
+Center for Transformative Teaching, University of Nebraska-Lincoln
+
+[11/2023]{.aside}
+
+**Active Learning Strategies**\
+Inclusive and Equitable Teaching Workshops, College of Arts and Sciences, University of Nebraska-Lincoln
